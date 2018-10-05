@@ -3,7 +3,7 @@
 
 - clone this repo
 - composer install
-- изменить в .env (не обязательно):
+- изменить в .env (не обязательно, есть значения по умолчанию):
     - FACEBOOK_ID
     - FACEBOOK_SECRET
 - php artisan serve
